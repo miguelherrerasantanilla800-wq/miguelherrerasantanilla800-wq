@@ -1,45 +1,56 @@
-# ¡Hola! Soy Miguel Ángel Herrera 👋
+<div align="center">
 
-## 🧑‍💻 Estudiante Ingenieria de Datos
+# Miguel Ángel Herrera
+### Estudiante de Ingenieria de Datos
 
-Me especializo en construir pipelines de datos, procesos ETL y sistemas que transforman datos crudos en información útil. Me interesa la automatización y el uso de IA aplicada al procesamiento de datos.
+*Diseño y construyo pipelines de datos, procesos ETL y sistemas que convierten datos crudos en decisiones.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
 
-### 🛠️ Stack Tecnológico
+</div>
 
-**Lenguajes**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<br>
 
-**Herramientas & Áreas**
-- ETL / Procesos de transformación de datos
-- Sistemas basados en IA / conocimiento
-- Desarrollo web (frontend básico)
+## 🧩 Qué hago
 
----
+Trabajo en la línea de **Data Engineering**: extracción, transformación y carga de datos (ETL), diseño de estructuras de datos limpias, y automatización de procesos que hoy se hacen manualmente. También he explorado sistemas de gestión de conocimiento apoyados en IA.
 
-### 🚀 Proyectos Destacados
+<br>
 
-- 🔹 **[Parcial-ETL-Kaismart](https://github.com/miguelherrerasantanilla800-wq/Parcial-ETL-Kaismart)** — Proceso ETL en Python
-- 🔹 **[ai-knowledge-system](https://github.com/miguelherrerasantanilla800-wq/ai-knowledge-system)** — Sistema de gestión de conocimiento con IA
-- 🔹 **[karen-stiven-everafter](https://github.com/miguelherrerasantanilla800-wq/karen-stiven-everafter)** — Proyecto en TypeScript
-- 🔹 **[Eventos300](https://github.com/miguelherrerasantanilla800-wq/Eventos300)** — Página de facturación y eventos
+## 🛠️ Stack
 
----
+<div align="center">
 
-### 📊 Estadísticas de GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelherrerasantanilla800-wq&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelherrerasantanilla800-wq&layout=compact)
+</div>
 
----
+<br>
 
-### 📫 Contáctame
+## 🚀 Proyectos
 
-- 💼 LinkedIn:(https://www.linkedin.com/in/miguel-herrera-4b76173b6/)
-- 📧 Email: Miguelherrerasantanilla800@gmail.com
+### [Parcial-ETL-Kaismart](https://github.com/miguelherrerasantanilla800-wq/Parcial-ETL-Kaismart)
+Pipeline ETL construido en Python. Extrae datos de [fuente], los transforma con [reglas/lógica] y los carga en [destino].
+**Reto técnico:** [ej. manejo de datos inconsistentes, optimización de tiempos de carga, etc.]
 
----
-⭐ Abierto a oportunidades como Ingeniero de Datos / Data Engineer
+### [ai-knowledge-system](https://github.com/miguelherrerasantanilla800-wq/ai-knowledge-system)
+Sistema de gestión de conocimiento con componentes de IA. Permite [qué hace exactamente].
+**Reto técnico:** [ej. estructuración de datos no estructurados, integración de modelo, etc.]
+
+### [karen-stiven-everafter](https://github.com/miguelherrerasantanilla800-wq/karen-stiven-everafter)
+Aplicación desarrollada en TypeScript. [Breve descripción de la funcionalidad].
+
+### [Eventos300](https://github.com/miguelherrerasantanilla800-wq/Eventos300)
+Sistema de facturación y gestión de eventos.
+
+<br>
+
+<div align="center">
+
+*"Los datos bien estructurados cuentan las mejores historias."*
+
+</div>
